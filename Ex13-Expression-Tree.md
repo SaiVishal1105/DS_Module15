@@ -1,4 +1,4 @@
-# Ex3c Expression Tree
+# Ex3C Expression Tree
 ## DATE: 19-03-2025
 ## AIM:
 To write a C function to construct an Expression Tree for the given Postfix Expression and display the output in the format of In-order ,Pre-order and Post-order traversal.
